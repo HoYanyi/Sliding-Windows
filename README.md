@@ -1,6 +1,9 @@
 # Sliding-Windows
 #視窗預設 128*128
 
+
+
+
 import cv2
 import numpy as np
 import os
