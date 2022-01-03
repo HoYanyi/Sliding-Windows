@@ -8,11 +8,17 @@ Step1.匯入需要使用的涵式庫
 
 
 
+
+
 import cv2
 import numpy as np
 import os
 
 if __name__ == "__main__":
+    import cv2
+    import numpy as np
+    import os
+
     img = cv2.imread("img")
     
     img_width = img.shape[1]
