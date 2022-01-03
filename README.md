@@ -1,12 +1,9 @@
 # Sliding-Windows
+#視窗預設 128*128
 
 import cv2
 import numpy as np
 import os
-
-
-#Read image inside
-
 
 if __name__ == "__main__":
     img = cv2.imread("img")
