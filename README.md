@@ -1,6 +1,10 @@
 # Sliding-Windows
 #視窗預設 128*128
 
+Step1.匯入需要使用的涵式庫
+*.Opencv
+*.Numpy
+*.Os
 
 
 
